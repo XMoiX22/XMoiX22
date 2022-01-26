@@ -5,12 +5,17 @@
 - 💞️ I’m looking to collaborate on UPS (UNIVERSIDAD POLITECNICA SALESIANA) or with the google industry..
 - 📫 You can contact me at My Email: moisesjimez1234@gmail.com
 
-        ──▄────▄▄▄▄▄▄▄────▄───
-        ─▀▀▄─▄█████████▄─▄▀▀──
-        ─────██─▀███▀─██──────
-        ───▄─▀████▀████▀─▄────
-        ─▀█────██▀█▀██────█▀──
-
+    ──▄────▄▄▄▄▄▄▄────▄───
+    ─▀▀▄─▄█████████▄─▄▀▀──
+    ─────██─▀███▀─██──────
+    ───▄─▀████▀████▀─▄────
+    ─▀█────██▀█▀██────█▀──
+    
+    ███▀▀▀▀███████████████
+    ██░░░░░▄██████████████
+    █▌░░░░████░░██░░██░░██
+    ██░░░░░▀██████████████
+    ███▄▄▄▄███████████████
 
 <!---
 XMoiX22/XMoiX22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
